@@ -1,0 +1,10 @@
+{
+   "name": "Login to Flits",
+   "testData": "loginToFlits.xlsx",
+   "steps": [
+      {
+         "type": "component",
+         "component": "Login"
+      }
+   ]
+}

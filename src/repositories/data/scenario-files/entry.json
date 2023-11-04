@@ -1,0 +1,10 @@
+{
+   "name": "Start a web browser",
+   "testData": "entry.xlsx",
+   "steps": [
+      {
+         "type": "component",
+         "component": "Login"
+      }
+   ]
+}

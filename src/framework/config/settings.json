@@ -1,0 +1,6 @@
+{
+    "rootPath":"/Users/hasanali/Documents/Engineering/node-js/selenium-framework/src",
+    "scenariosPath":"/Users/hasanali/Documents/Engineering/node-js/selenium-framework/src/repositories/data/scenario-files",
+    "componentPath":"/Users/hasanali/Documents/Engineering/node-js/selenium-framework/src/repositories/components",
+    "testDataPath":"/Users/hasanali/Documents/Engineering/node-js/selenium-framework/src/repositories/data/test-data"
+}
